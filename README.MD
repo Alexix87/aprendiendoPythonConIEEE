@@ -1,3 +1,12 @@
+Metodos sobre strings:  
+https://docs.python.org/3/library/stdtypes.html#string-methods
+
+Metodos sobre listas:
+https://docs.python.org/3/tutorial/datastructures.html#more-on-lists
+
+Metodos sobre archivos:
+https://www.w3schools.com/python/python_ref_file.asp
+
 * Se definen exactamente 2 variables, nombre y edad  
 [Codigo](https://github.com/Alexix87/aprendiendoPythonConIEEE/blob/master/miniDesafio_clase1_01/miniDesafio_clase1_01.py)
 
